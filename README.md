@@ -1,7 +1,4 @@
-<p align="center"><img src="assets/animated-heading.svg" width="760" alt="Welcome to my GitHub. Hi, I'm Joshua." /></p>
-<p align="center"><strong>Full-Stack Developer · Backend Engineering · DevSecOps</strong></p>
-<p align="center">Building secure, scalable, and meaningful applications.<br/><em>Better Software, A Safer Digital World.</em></p>
-<p align="center"><a href="#tech-stack"><img src="assets/ui/code-xml.svg" width="20" alt="" /> Build</a> &nbsp; &nbsp; <a href="#about-me"><img src="assets/ui/book-open.svg" width="20" alt="" /> Learn</a> &nbsp; &nbsp; <a href="#about-me"><img src="assets/ui/shield-check.svg" width="20" alt="" /> Secure</a> &nbsp; &nbsp; <a href="https://github.com/fuinodev"><img src="assets/ui/users.svg" width="20" alt="" /> Share</a> &nbsp; &nbsp; </p>
+<p align="center"><img src="assets/hero.png" width="100%" alt="Welcome to my GitHub � Hi, I'm Joshua. Full-Stack Developer. Better Software, A Safer Digital World." /></p>
 
 <h2 id="tech-stack"><img src="assets/ui/code-xml.svg" width="24" alt="" /> Tech Stack</h2>
 <p>My development and learning toolkit.</p>
