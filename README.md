@@ -6,8 +6,8 @@
 <tr valign="top">
 <td width="34%">
 <h3 id="about-me"><img src="assets/ui/user-round.svg" width="22" alt="" /> About Me</h3>
-<p>I'm <strong>Joshua Aboga</strong>, a software engineering focused on full-stack development,
-  backend systems, and DevSecOps. 
+<p>I'm <strong>Joshua Aboga</strong>, a software engineering ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤfocused on full-stack development,
+  backend systems, and DevSecOps. ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
   I build secure, scalable applications that solve real-world problems.</p>
 </td>
 <td width="33%"><h3 id="github-stats"><img src="assets/ui/chart-column.svg" width="22" alt="" /> GitHub Stats</h3><a href="https://github.com/fuinodev?tab=overview"><img src="https://github-readme-stats.vercel.app/api?username=fuinodev&amp;hide_title=true&amp;show_icons=true&amp;hide_rank=true&amp;theme=transparent&amp;hide_border=true&amp;text_color=777777&amp;icon_color=8B5CF6" width="100%" alt="GitHub Stats — view contributions and activity" /></a></td><td width="33%"><h3><img src="assets/ui/layers.svg" width="22" alt="" /> Most Used Languages</h3><a href="https://github.com/fuinodev?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuinodev&amp;hide_title=true&amp;layout=normal&amp;langs_count=6&amp;theme=transparent&amp;hide_border=true&amp;text_color=777777&amp;icon_color=8B5CF6" width="100%" alt="Most Used Languages — explore public repositories" /></a></td>
