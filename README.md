@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/hero.png" width="100%" alt="Hi, I'm Joshua — Full-Stack Developer" /></p>
+<p align="center"><img src="assets/hero.png" width="850" alt="Hi, I'm Joshua — Full-Stack Developer" /></p>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=40&amp;lines=Full-Stack+Developer;Backend+Engineering;DevSecOps;Better+Software%2C+A+Safer+Digital+World" alt="Full-Stack Developer | Backend Engineering | DevSecOps" /></p>
 <p align="center"><a href="#about-me">About Me</a> · <a href="#tech-stack">Tech Stack</a> · <a href="#github-stats">GitHub Stats</a></p>
 
@@ -77,3 +77,4 @@
 </table>
 
 <sub>Language bars reflect public repository code composition, not proficiency. Statistics refresh through GitHub Readme Stats.</sub>
+
