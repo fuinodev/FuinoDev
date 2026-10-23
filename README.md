@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/hero-transparent.png" width="100%" alt="Welcome to my GitHub - Hi, I'm Joshua. Full-Stack Developer. Better Software, A Safer Digital World." /></p>
+<p align="center"><img src="assets/hero-tight.svg" width="100%" alt="Welcome to my GitHub - Hi, I'm Joshua. Full-Stack Developer. Better Software, A Safer Digital World." /></p>
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" /><img src="assets/stack-light.svg" width="100%" alt="Tech Stack: 46 unique development and learning technologies" /></picture></p>
 
