@@ -6,7 +6,7 @@
 <tr valign="top">
 <td width="34%">
 <h3 id="about-me"><img src="assets/ui/user-round.svg" width="22" alt="" /> About Me</h3>
-<p>I'm <strong>Joshua Andrew Aboga</strong>, a software engineering focused on full-stack development,
+<p>I'm <strong>Joshua Aboga</strong>, a software engineering focused on full-stack development,
   backend systems, and DevSecOps. 
   I build secure, scalable applications that solve real-world problems.</p>
 </td>
