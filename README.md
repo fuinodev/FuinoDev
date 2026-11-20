@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Joshua 👋</h1>
-  <h3>Full-Stack Developer | Software & Cloud Engineering</h3>
+  <h3>Full-Stack Developer | Software & Cloud Engineer</h3>
 </div>
 
 <p><img src="assets/stack-transparent.svg" width="100%" alt="Tech Stack: 46 unique development and learning technologies" /></p>
